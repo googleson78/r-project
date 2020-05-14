@@ -1,0 +1,2 @@
+> cor(picks, winrate)
+[1] 0.2399816

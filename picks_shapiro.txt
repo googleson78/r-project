@@ -1,0 +1,6 @@
+> shapiro.test(picks)
+
+        Shapiro-Wilk normality test
+
+data:  picks
+W = 0.92402, p-value = 4.515e-06

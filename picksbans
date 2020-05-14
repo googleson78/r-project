@@ -1,0 +1,597 @@
+[
+  {
+    "attr": "agi",
+    "picks": 267392,
+    "wins": 140584
+  },
+  {
+    "attr": "str",
+    "picks": 261947,
+    "wins": 134088
+  },
+  {
+    "attr": "int",
+    "picks": 75677,
+    "wins": 39243
+  },
+  {
+    "attr": "agi",
+    "picks": 159699,
+    "wins": 85389
+  },
+  {
+    "attr": "int",
+    "picks": 253225,
+    "wins": 132525
+  },
+  {
+    "attr": "agi",
+    "picks": 187009,
+    "wins": 94627
+  },
+  {
+    "attr": "str",
+    "picks": 242895,
+    "wins": 118648
+  },
+  {
+    "attr": "agi",
+    "picks": 407205,
+    "wins": 203414
+  },
+  {
+    "attr": "agi",
+    "picks": 249214,
+    "wins": 130084
+  },
+  {
+    "attr": "agi",
+    "picks": 166182,
+    "wins": 78592
+  },
+  {
+    "attr": "agi",
+    "picks": 239332,
+    "wins": 116767
+  },
+  {
+    "attr": "agi",
+    "picks": 167264,
+    "wins": 80986
+  },
+  {
+    "attr": "int",
+    "picks": 86340,
+    "wins": 41161
+  },
+  {
+    "attr": "str",
+    "picks": 468245,
+    "wins": 234643
+  },
+  {
+    "attr": "agi",
+    "picks": 95798,
+    "wins": 48714
+  },
+  {
+    "attr": "str",
+    "picks": 106014,
+    "wins": 53227
+  },
+  {
+    "attr": "int",
+    "picks": 188947,
+    "wins": 89293
+  },
+  {
+    "attr": "str",
+    "picks": 115159,
+    "wins": 56582
+  },
+  {
+    "attr": "str",
+    "picks": 98105,
+    "wins": 43592
+  },
+  {
+    "attr": "agi",
+    "picks": 100263,
+    "wins": 52212
+  },
+  {
+    "attr": "int",
+    "picks": 284648,
+    "wins": 145379
+  },
+  {
+    "attr": "int",
+    "picks": 249828,
+    "wins": 133063
+  },
+  {
+    "attr": "str",
+    "picks": 158445,
+    "wins": 75318
+  },
+  {
+    "attr": "int",
+    "picks": 210885,
+    "wins": 99411
+  },
+  {
+    "attr": "int",
+    "picks": 432950,
+    "wins": 207564
+  },
+  {
+    "attr": "int",
+    "picks": 191829,
+    "wins": 93746
+  },
+  {
+    "attr": "str",
+    "picks": 162127,
+    "wins": 82008
+  },
+  {
+    "attr": "str",
+    "picks": 112201,
+    "wins": 57140
+  },
+  {
+    "attr": "int",
+    "picks": 263385,
+    "wins": 132217
+  },
+  {
+    "attr": "int",
+    "picks": 221149,
+    "wins": 112440
+  },
+  {
+    "attr": "agi",
+    "picks": 175677,
+    "wins": 93958
+  },
+  {
+    "attr": "int",
+    "picks": 59527,
+    "wins": 30013
+  },
+  {
+    "attr": "int",
+    "picks": 117650,
+    "wins": 53608
+  },
+  {
+    "attr": "agi",
+    "picks": 413326,
+    "wins": 216845
+  },
+  {
+    "attr": "int",
+    "picks": 197598,
+    "wins": 105779
+  },
+  {
+    "attr": "int",
+    "picks": 90682,
+    "wins": 47339
+  },
+  {
+    "attr": "str",
+    "picks": 68540,
+    "wins": 36745
+  },
+  {
+    "attr": "int",
+    "picks": 231215,
+    "wins": 116820
+  },
+  {
+    "attr": "agi",
+    "picks": 118185,
+    "wins": 60582
+  },
+  {
+    "attr": "agi",
+    "picks": 273951,
+    "wins": 137020
+  },
+  {
+    "attr": "str",
+    "picks": 290883,
+    "wins": 160088
+  },
+  {
+    "attr": "int",
+    "picks": 76350,
+    "wins": 36315
+  },
+  {
+    "attr": "agi",
+    "picks": 366738,
+    "wins": 182632
+  },
+  {
+    "attr": "int",
+    "picks": 140626,
+    "wins": 69309
+  },
+  {
+    "attr": "agi",
+    "picks": 126132,
+    "wins": 60678
+  },
+  {
+    "attr": "agi",
+    "picks": 134301,
+    "wins": 64237
+  },
+  {
+    "attr": "agi",
+    "picks": 137274,
+    "wins": 72762
+  },
+  {
+    "attr": "str",
+    "picks": 164948,
+    "wins": 85324
+  },
+  {
+    "attr": "int",
+    "picks": 195158,
+    "wins": 97926
+  },
+  {
+    "attr": "str",
+    "picks": 150500,
+    "wins": 79478
+  },
+  {
+    "attr": "int",
+    "picks": 43628,
+    "wins": 18670
+  },
+  {
+    "attr": "int",
+    "picks": 155738,
+    "wins": 70523
+  },
+  {
+    "attr": "str",
+    "picks": 134413,
+    "wins": 65699
+  },
+  {
+    "attr": "int",
+    "picks": 41507,
+    "wins": 21806
+  },
+  {
+    "attr": "agi",
+    "picks": 110489,
+    "wins": 57057
+  },
+  {
+    "attr": "str",
+    "picks": 40970,
+    "wins": 19948
+  },
+  {
+    "attr": "int",
+    "picks": 45381,
+    "wins": 20144
+  },
+  {
+    "attr": "str",
+    "picks": 116526,
+    "wins": 56901
+  },
+  {
+    "attr": "str",
+    "picks": 69082,
+    "wins": 36803
+  },
+  {
+    "attr": "agi",
+    "picks": 36717,
+    "wins": 18016
+  },
+  {
+    "attr": "agi",
+    "picks": 191936,
+    "wins": 100732
+  },
+  {
+    "attr": "agi",
+    "picks": 157204,
+    "wins": 77710
+  },
+  {
+    "attr": "int",
+    "picks": 217770,
+    "wins": 115648
+  },
+  {
+    "attr": "int",
+    "picks": 42186,
+    "wins": 19416
+  },
+  {
+    "attr": "int",
+    "picks": 19106,
+    "wins": 9068
+  },
+  {
+    "attr": "agi",
+    "picks": 147006,
+    "wins": 77868
+  },
+  {
+    "attr": "int",
+    "picks": 149245,
+    "wins": 76151
+  },
+  {
+    "attr": "str",
+    "picks": 65209,
+    "wins": 30581
+  },
+  {
+    "attr": "agi",
+    "picks": 189983,
+    "wins": 100837
+  },
+  {
+    "attr": "str",
+    "picks": 167864,
+    "wins": 83190
+  },
+  {
+    "attr": "agi",
+    "picks": 101530,
+    "wins": 46213
+  },
+  {
+    "attr": "str",
+    "picks": 142539,
+    "wins": 74917
+  },
+  {
+    "attr": "int",
+    "picks": 296998,
+    "wins": 142513
+  },
+  {
+    "attr": "int",
+    "picks": 172195,
+    "wins": 85148
+  },
+  {
+    "attr": "int",
+    "picks": 82561,
+    "wins": 37292
+  },
+  {
+    "attr": "str",
+    "picks": 47738,
+    "wins": 24420
+  },
+  {
+    "attr": "str",
+    "picks": 33371,
+    "wins": 16207
+  },
+  {
+    "attr": "int",
+    "picks": 60585,
+    "wins": 28843
+  },
+  {
+    "attr": "agi",
+    "picks": 68253,
+    "wins": 36603
+  },
+  {
+    "attr": "str",
+    "picks": 76829,
+    "wins": 38145
+  },
+  {
+    "attr": "agi",
+    "picks": 57761,
+    "wins": 29126
+  },
+  {
+    "attr": "str",
+    "picks": 95021,
+    "wins": 48180
+  },
+  {
+    "attr": "int",
+    "picks": 431912,
+    "wins": 233623
+  },
+  {
+    "attr": "str",
+    "picks": 99092,
+    "wins": 49764
+  },
+  {
+    "attr": "int",
+    "picks": 256290,
+    "wins": 118941
+  },
+  {
+    "attr": "int",
+    "picks": 180947,
+    "wins": 90509
+  },
+  {
+    "attr": "agi",
+    "picks": 79980,
+    "wins": 40086
+  },
+  {
+    "attr": "agi",
+    "picks": 58505,
+    "wins": 29336
+  },
+  {
+    "attr": "int",
+    "picks": 166862,
+    "wins": 83123
+  },
+  {
+    "attr": "str",
+    "picks": 42239,
+    "wins": 18385
+  },
+  {
+    "attr": "int",
+    "picks": 19352,
+    "wins": 10180
+  },
+  {
+    "attr": "agi",
+    "picks": 305159,
+    "wins": 150449
+  },
+  {
+    "attr": "agi",
+    "picks": 140098,
+    "wins": 70439
+  },
+  {
+    "attr": "agi",
+    "picks": 151243,
+    "wins": 77059
+  },
+  {
+    "attr": "str",
+    "picks": 119247,
+    "wins": 58978
+  },
+  {
+    "attr": "str",
+    "picks": 68946,
+    "wins": 31202
+  },
+  {
+    "attr": "str",
+    "picks": 115510,
+    "wins": 53418
+  },
+  {
+    "attr": "str",
+    "picks": 287449,
+    "wins": 141925
+  },
+  {
+    "attr": "str",
+    "picks": 131325,
+    "wins": 62909
+  },
+  {
+    "attr": "int",
+    "picks": 163746,
+    "wins": 81939
+  },
+  {
+    "attr": "str",
+    "picks": 77661,
+    "wins": 39630
+  },
+  {
+    "attr": "str",
+    "picks": 28156,
+    "wins": 13863
+  },
+  {
+    "attr": "str",
+    "picks": 296469,
+    "wins": 147271
+  },
+  {
+    "attr": "int",
+    "picks": 155862,
+    "wins": 77208
+  },
+  {
+    "attr": "agi",
+    "picks": 229929,
+    "wins": 106171
+  },
+  {
+    "attr": "str",
+    "picks": 66366,
+    "wins": 30838
+  },
+  {
+    "attr": "str",
+    "picks": 130457,
+    "wins": 69555
+  },
+  {
+    "attr": "agi",
+    "picks": 70524,
+    "wins": 33111
+  },
+  {
+    "attr": "str",
+    "picks": 132132,
+    "wins": 67447
+  },
+  {
+    "attr": "int",
+    "picks": 65370,
+    "wins": 29951
+  },
+  {
+    "attr": "int",
+    "picks": 101791,
+    "wins": 49553
+  },
+  {
+    "attr": "agi",
+    "picks": 32066,
+    "wins": 15262
+  },
+  {
+    "attr": "agi",
+    "picks": 261316,
+    "wins": 126567
+  },
+  {
+    "attr": "int",
+    "picks": 116867,
+    "wins": 58953
+  },
+  {
+    "attr": "agi",
+    "picks": 149166,
+    "wins": 71257
+  },
+  {
+    "attr": "int",
+    "picks": 168572,
+    "wins": 78612
+  },
+  {
+    "attr": "int",
+    "picks": 188506,
+    "wins": 93362
+  },
+  {
+    "attr": "str",
+    "picks": 188346,
+    "wins": 92087
+  },
+  {
+    "attr": "str",
+    "picks": 185760,
+    "wins": 89143
+  }
+]

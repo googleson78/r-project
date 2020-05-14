@@ -1,0 +1,6 @@
+> shapiro.test(winrate);
+
+        Shapiro-Wilk normality test
+
+data:  winrate
+W = 0.98628, p-value = 0.2719

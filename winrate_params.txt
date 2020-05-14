@@ -1,0 +1,6 @@
+seems to be normal from shapiro + qqs
+
+> mean(winrate)
+[1] 0.4963748
+> var(winrate)
+[1] 0.0006287858
